@@ -1,0 +1,1 @@
+This is repository with example of sorting, searching and unit testing. It was used Java 8 technology and JUnit.
