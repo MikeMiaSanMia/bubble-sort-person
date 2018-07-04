@@ -1,1 +1,1 @@
-This is repository with example of sorting, searching and unit testing. It was used Java 8 technology and JUnit.
+Now, it is empty repository. It will be used for training sorting, searching and unit testing. It will be used Java 8 technology and JUnit.
